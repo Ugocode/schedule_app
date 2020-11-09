@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+Get your schedule and manage it appropriately.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
