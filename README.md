@@ -4,7 +4,7 @@
 
 
 
-A new Flutter application.
+A new Flutter application with SQFlite as backend to store the tasks
 
 Get your schedule and manage it appropriately.
 
