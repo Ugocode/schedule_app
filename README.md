@@ -1,5 +1,9 @@
 # schedule_app
 
+<img src="./addTask.png" width="250">, <img src="./addTask.png" width="250"> <img src="./addTask.png" width="250">
+
+
+
 A new Flutter application.
 
 Get your schedule and manage it appropriately.
