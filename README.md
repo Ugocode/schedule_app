@@ -10,7 +10,7 @@ Get your schedule and manage it appropriately.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This part of the project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
